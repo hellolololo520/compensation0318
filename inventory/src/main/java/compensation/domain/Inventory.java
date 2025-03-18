@@ -2,6 +2,7 @@ package compensation.domain;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import compensation.InventoryApplication;
+import compensation.domain.OutOfStock;
 import compensation.domain.StockDecreased;
 import java.time.LocalDate;
 import java.util.Date;
